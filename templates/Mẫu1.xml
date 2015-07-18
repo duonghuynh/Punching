@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+    <FaceA>
+        <hole tool="1" x="50.0" y="200.0"/>
+        <hole tool="1" x="50.0" y="150.0"/>
+    </FaceA>
+    <FaceB>
+        <hole tool="2" x="45.0" y="123.0"/>
+        <hole tool="1" x="50.0" y="150.0"/>
+    </FaceB>
+    <length>500.7</length>
+    <name>Mẫu1</name>
+</template>

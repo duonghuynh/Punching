@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+    <FaceA>
+        <hole tool="1" x="40.0" y="50.0"/>
+        <hole tool="1" x="80.0" y="50.0"/>
+        <hole tool="1" x="120.0" y="50.0"/>
+        <hole tool="2" x="40.0" y="100.0"/>
+        <hole tool="2" x="80.0" y="100.0"/>
+        <hole tool="2" x="120.0" y="100.0"/>
+        <hole tool="3" x="40.0" y="150.0"/>
+        <hole tool="3" x="80.0" y="150.0"/>
+        <hole tool="3" x="120.0" y="150.0"/>
+        <hole tool="3" x="40.0" y="2850.0"/>
+        <hole tool="3" x="80.0" y="2850.0"/>
+        <hole tool="3" x="120.0" y="2850.0"/>
+        <hole tool="3" x="40.0" y="2900.0"/>
+        <hole tool="3" x="80.0" y="2900.0"/>
+        <hole tool="3" x="120.0" y="2900.0"/>
+        <hole tool="3" x="40.0" y="2950.0"/>
+        <hole tool="3" x="80.0" y="2950.0"/>
+        <hole tool="3" x="120.0" y="2950.0"/>
+    </FaceA>
+    <FaceB>
+        <hole tool="1" x="40.0" y="50.0"/>
+        <hole tool="1" x="80.0" y="50.0"/>
+        <hole tool="1" x="120.0" y="50.0"/>
+        <hole tool="2" x="40.0" y="100.0"/>
+        <hole tool="2" x="80.0" y="100.0"/>
+        <hole tool="2" x="120.0" y="100.0"/>
+        <hole tool="3" x="40.0" y="150.0"/>
+        <hole tool="3" x="80.0" y="150.0"/>
+        <hole tool="3" x="120.0" y="150.0"/>
+        <hole tool="3" x="40.0" y="2850.0"/>
+        <hole tool="3" x="80.0" y="2850.0"/>
+        <hole tool="3" x="120.0" y="2850.0"/>
+        <hole tool="3" x="40.0" y="2900.0"/>
+        <hole tool="3" x="80.0" y="2900.0"/>
+        <hole tool="3" x="120.0" y="2900.0"/>
+        <hole tool="3" x="40.0" y="2950.0"/>
+        <hole tool="3" x="80.0" y="2950.0"/>
+        <hole tool="3" x="120.0" y="2950.0"/>
+    </FaceB>
+    <length>3000.0</length>
+    <name>Mẫu cây 3000</name>
+</template>

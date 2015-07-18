@@ -1,0 +1,5 @@
+﻿1. Setting
+2. Tạo và chỉnh sửa templates
+3. Tạo / Lưu / Open file plans
+4. Calculate
+5. Write to PLC

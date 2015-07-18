@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+    <FaceA>
+        <hole tool="1" x="75.0" y="3800.0"/>
+        <hole tool="1" x="50.0" y="3950.0"/>
+        <hole tool="1" x="100.0" y="3950.0"/>
+    </FaceA>
+    <FaceB>
+        <hole tool="1" x="75.0" y="3800.0"/>
+    </FaceB>
+    <length>3000.0</length>
+    <name>Test B</name>
+</template>

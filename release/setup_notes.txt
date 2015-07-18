@@ -1,0 +1,1 @@
+﻿copy ForJRE vào đúng kiến trúc thư mục của JRE, JDK đang chạy

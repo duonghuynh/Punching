@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+    <FaceA>
+        <hole tool="1" x="50.0" y="50.0"/>
+        <hole tool="1" x="100.0" y="50.0"/>
+        <hole tool="1" x="75.0" y="200.0"/>
+        <hole tool="2" x="50.0" y="350.0"/>
+        <hole tool="2" x="100.0" y="350.0"/>
+        <hole tool="2" x="50.0" y="3650.0"/>
+        <hole tool="3" x="100.0" y="3650.0"/>
+        <hole tool="3" x="75.0" y="3800.0"/>
+        <hole tool="3" x="50.0" y="3950.0"/>
+        <hole tool="3" x="100.0" y="3950.0"/>
+    </FaceA>
+    <FaceB>
+        <hole tool="1" x="60.0" y="100.0"/>
+        <hole tool="1" x="120.0" y="100.0"/>
+        <hole tool="1" x="80.0" y="250.0"/>
+        <hole tool="2" x="60.0" y="450.0"/>
+        <hole tool="2" x="120.0" y="450.0"/>
+        <hole tool="2" x="60.0" y="3600.0"/>
+        <hole tool="3" x="120.0" y="3600.0"/>
+        <hole tool="3" x="80.0" y="3750.0"/>
+        <hole tool="3" x="60.0" y="3900.0"/>
+        <hole tool="3" x="120.0" y="3900.0"/>
+    </FaceB>
+    <length>500.7</length>
+    <name>Mẫu 4000</name>
+</template>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template>
+    <FaceA>
+        <hole tool="1" x="100.0" y="150.0"/>
+    </FaceA>
+    <FaceB/>
+    <length>3000.0</length>
+    <name>Mẫu ABC</name>
+</template>
